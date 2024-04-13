@@ -1,0 +1,68 @@
+.zone{
+    width: 300px;
+    height: 200px;
+    font-size: 100px;
+    text-align: center;
+    display: inline-block;
+    margin-top: 40px;
+}
+
+.red{
+    background-color: red;
+}
+
+.red:hover{
+    background-color: rgb(212, 110, 110);
+}
+
+.green{
+    background-color: green;
+}
+
+.pink{
+    background-color: pink;
+}
+
+.purple{
+    background-color: purple;
+}
+
+.cyan{
+    background-color: cyan;
+}
+
+.white{
+    background-color: white;
+}
+
+.black{
+    background-color: black;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.blue{
+    background-color: blue;
+}
+
+
+body{
+    text-align: center;
+    background-color: rgb(230, 230, 110);
+}
+
+h1{
+    font-size: 100px;
+    color: red;
+}
+
+#detail-title{
+    font-size: 50px;
+    text-align: left;
+}
+
+#input{
+    text-align: center;
+}
